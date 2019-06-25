@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lion/CLionProjects/untitled14/cmake-build-debug/number-of-enclaves.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+numeric
+-
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lion/CLionProjects/untitled14/3sum_closed.cpp
+iostream
+-
+vector
+-
+assert.h
+-
+queue
+-
+numeric
+-
+string
+-
+sstream
+-
+limits
+-
+unordered_map
+-
+map
+-
+algorithm
+-
+string
+-
+set
+-
+queue
+-
+limits.h
+-
+
